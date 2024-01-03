@@ -5,4 +5,5 @@ public class Arrays{
         for(int i = 0; i < weather.length; i++){
         System.out.println(weather[i]);
         }
+    }
 }
